@@ -1,1 +1,1 @@
-Names of contributers.
+["Names of contributors"]
